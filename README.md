@@ -16,19 +16,19 @@
 ### **3.Provide a screenshot of your report:**
 
 
-![]()
+![](https://github.com/dobyfreejr/SIEMS-I/blob/1bfc5aed9304904dfa15cd9326395f1bed765b16/img/1.png)
 
 
 ## *Step 2: Are We Vulnerable?*
 
 ### **4.Provide a screenshot of your report:**
 
-![]()
+![](https://github.com/dobyfreejr/SIEMS-I/blob/1bfc5aed9304904dfa15cd9326395f1bed765b16/img/2.png)
 
 
 ### **5.Provide a screenshot showing that the alert has been created:** 
 
-![]()
+![](https://github.com/dobyfreejr/SIEMS-I/blob/1bfc5aed9304904dfa15cd9326395f1bed765b16/img/3.png)
 
 ## *Step 3: Drawing the (Base)line*
 
@@ -44,6 +44,6 @@
 
 ### **8.Provide a screenshot showing that the alert has been created:**
 
-![]()
+![](https://github.com/dobyfreejr/SIEMS-I/blob/1bfc5aed9304904dfa15cd9326395f1bed765b16/img/4.png)
 
 
